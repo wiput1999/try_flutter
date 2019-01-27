@@ -1,4 +1,4 @@
-# try_flutter
+# pics
 
 A new Flutter project.
 
